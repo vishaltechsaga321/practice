@@ -12,5 +12,7 @@
 <p>
     this is a sample PHP file.
 </p>
+
+    <h1> this is heading h1 tag </h1>
 </body>
 </html>
